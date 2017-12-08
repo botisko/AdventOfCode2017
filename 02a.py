@@ -1,4 +1,4 @@
-"""Advent of Code - Day 02 - Checksum - Part I"""
+"""Advent of Code 2017 - Day 2: Corruption Checksum - Part I"""
 
 import sys
 
