@@ -1,4 +1,4 @@
-"""Advent of Code - Day 01 - Reverse Captcha - Part II"""
+"""Advent of Code 2017 - Day 1: Inverse Captcha - Part II"""
 
 import sys
 
