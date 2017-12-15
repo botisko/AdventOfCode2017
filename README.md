@@ -7,4 +7,10 @@ Day 01 - Part I & II is DONE.
 
 Day 02 - Part I & II is DONE.
 
-Day 03 - TBD
+Day 03 - DONE but code incomplete, see files for details
+
+Day 04 - Part I & II is DONE.
+
+Day 05 - Part I & II is DONE.
+
+Day 06 - Part I sketch was uploaded.
