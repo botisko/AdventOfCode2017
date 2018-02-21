@@ -1,16 +1,30 @@
 # AdventOfCode2017
-see http://adventofcode.com/2017
+*see http://adventofcode.com/2017*
 
 A repository for Advent of Code 2017 challenge. Source files will be updated in Python.
 
-Day 01 - Part I & II is DONE.
-
-Day 02 - Part I & II is DONE.
-
-Day 03 - DONE but code incomplete, see files for details
-
-Day 04 - Part I & II is DONE.
-
-Day 05 - Part I & II is DONE.
-
-Day 06 - Part I sketch was uploaded.
+## Progress
+- [x] Day 01
+- [x] Day 02
+- [x] Day 03 *(Done but code is incomplete, see files for details)*
+- [x] Day 04
+- [x] Day 05
+- [ ] Day 06 *(Part I sketch was uploaded)*
+- [ ] Day 07
+- [ ] Day 08
+- [ ] Day 09 
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
